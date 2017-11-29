@@ -1,7 +1,7 @@
-/* Kyler Dunn, Isaiah Banta/Standard
+(* Kyler Dunn, Isaiah Banta/Standard
 	Project Prototype
 	
-*/
+*)
 
 
 datatype Abilities = DeathSentence | DarkPassage | Flay | TheBox 
