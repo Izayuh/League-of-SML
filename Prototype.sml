@@ -1,5 +1,5 @@
 (* Kyler Dunn, Isaiah Banta/Standard
-	Project Prototype
+	Project Prototype :)
 	
 *)
 
